@@ -29,17 +29,17 @@
 <tr>
 <td width="55%" valign="top">
 
-### Hi, I'm Saadet
+### Hi, I'm Saadat
 
-I'm a Computer Engineering student at **Istanbul Technical University**.
+### 👋 Hi, I'm Saadat
 
-I am currently building a stronger foundation in software development, data structures, algorithms, and open-source contribution. My focus is on writing clean, understandable code and improving through consistent practice and real projects.
+I build my foundation in code step by step — combining university coursework, open-source practice, and project-based learning.
 
-- Computer Engineering student @ **ITU**
-- Currently learning **C, C++, Git, GitHub, and Data Structures**
-- Exploring **open-source contribution**
-- Interested in **software engineering, web development, and problem solving**
-- Building my portfolio through small but consistent projects
+- 🎓 Computer Engineering student @ **Istanbul Technical University**
+- 💻 C / C++ / Git / GitHub / Data Structures
+- 🌐 Software development, web development, and problem solving
+- 🛠️ Building projects and improving through consistent practice
+- 🤝 Exploring open-source contribution
 
 <br>
 
@@ -58,7 +58,7 @@ I am currently building a stronger foundation in software development, data stru
 
 ### Tech Stack
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
 </p>
 
