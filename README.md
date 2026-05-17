@@ -1,33 +1,28 @@
 <div align="center">
 
-# Saadat Namazli
-
-### Computer Engineering Student · Software Development · Open Source
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=600&lines=learning+to+build+better+software;C+%7C+C%2B%2B+%7C+Data+Structures+%7C+Git;open+source+beginner;building+discipline+one+commit+at+a+time" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=145&color=0:F8D7E8,50:E8D9FF,100:D7ECFF&text=Saadat%20Namazli&fontSize=40&fontColor=2E2433&fontAlignY=42&desc=Computer%20Engineering%20Student%20%C2%B7%20Developer%20in%20Progress%20%C2%B7%20Open%20Source%20Beginner&descSize=15&descAlignY=68" />
 
 </div>
 
----
+<br>
 
 <table>
 <tr>
-<td width="58%" valign="top">
+<td width="38%" align="center" valign="middle">
 
-## 𐙚 about me
-
-Hi, I’m **Saadat**, a Computer Engineering student at **Istanbul Technical University**.
-
-I’m currently focused on building strong foundations in programming, computer science, and real-world software development. I’m learning through coursework, small projects, open-source contribution, and consistent practice.
-
-I care about writing code that is understandable, improving my problem-solving skills, and becoming more disciplined as a developer.
-
-> *“Nothing that is not serious gets to interrupt what is serious.”*
+<img src="./pixel-girl.png" width="260" alt="pixel art coding workspace" />
 
 </td>
-<td width="42%" align="center" valign="top">
+<td width="62%" valign="middle">
 
-<img src="./pixel-girl.png" width="280" alt="pixel art coding workspace" />
+## 𐙚 hello, i'm Saadat
+
+Computer Engineering student at **Istanbul Technical University**.
+
+I’m learning how to build software with patience, structure, and consistency.  
+Right now, my focus is on strengthening my programming foundation, understanding computer science concepts properly, and turning what I learn into small real projects.
+
+I’m especially interested in **software development**, **open source**, **problem solving**, and building a portfolio that shows steady growth.
 
 </td>
 </tr>
@@ -35,17 +30,27 @@ I care about writing code that is understandable, improving my problem-solving s
 
 ---
 
-## 𐙚 currently learning
+<div align="center">
+
+### 𐙚 my current rule
+
+*Nothing that is not serious gets to interrupt what is serious.*
+
+</div>
+
+---
+
+## 𐙚 currently building my foundation in
 
 <div align="center">
 
-| Area | Focus |
+|  |  |
 |---|---|
-| **Programming** | C, C++, JavaScript |
-| **Computer Science** | Data Structures, Algorithms, Problem Solving |
-| **Development** | Git, GitHub, Open Source Workflow |
-| **Web** | HTML, CSS, JavaScript |
-| **Projects** | Portfolio projects and practical tools |
+| **Languages** | C · C++ · JavaScript |
+| **Computer Science** | Data Structures · Algorithms · Problem Solving |
+| **Development** | Git · GitHub · Open Source Workflow |
+| **Web** | HTML · CSS · JavaScript |
+| **Practice** | Small projects · Documentation · Pull requests |
 
 </div>
 
@@ -61,33 +66,37 @@ I care about writing code that is understandable, improving my problem-solving s
 
 ---
 
-## 𐙚 focus
+## 𐙚 what i'm working on
+
+<div align="center">
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### programming
+### 01 · code
 
-Strengthening my foundation in C, C++, logic, and core programming concepts.
-
-</td>
-<td width="33%" valign="top">
-
-### open source
-
-Learning how real projects work through issues, pull requests, documentation, and GitHub workflow.
+Practicing C, C++, and programming fundamentals through coursework and exercises.
 
 </td>
 <td width="33%" valign="top">
 
-### projects
+### 02 · open source
 
-Building small projects to turn what I learn into something practical and visible.
+Learning real GitHub workflow through issues, documentation, pull requests, and contributions.
+
+</td>
+<td width="33%" valign="top">
+
+### 03 · projects
+
+Building small projects to make my learning visible, useful, and portfolio-ready.
 
 </td>
 </tr>
 </table>
+
+</div>
 
 ---
 
@@ -95,8 +104,8 @@ Building small projects to turn what I learn into something practical and visibl
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=s4daexe&show_icons=true&hide_border=true&title_color=8B6F9F&icon_color=8B6F9F&text_color=333333" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4daexe&layout=compact&hide_border=true&title_color=8B6F9F&text_color=333333" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=s4daexe&show_icons=true&hide_border=true&title_color=B47FB3&icon_color=B47FB3&text_color=2E2433" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4daexe&layout=compact&hide_border=true&title_color=B47FB3&text_color=2E2433" height="160" />
 
 </div>
 
@@ -104,6 +113,6 @@ Building small projects to turn what I learn into something practical and visibl
 
 <div align="center">
 
-<sub>learning slowly · building consistently · improving commit by commit</sub>
+<sub>learning gently · building consistently · improving one commit at a time</sub>
 
 </div>
