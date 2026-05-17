@@ -1,69 +1,109 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=130&color=gradient&text=Saadat%20Namazli&fontSize=42&fontAlignY=45&desc=Computer%20Engineering%20%7C%20Software%20Development%20%7C%20Open%20Source&descAlignY=75&animation=fadeIn" />
+# Saadat Namazli
 
-<br>
+### Computer Engineering Student · Software Development · Open Source
 
-<img src="./pixel-girl.png" width="320" alt="pixel art coding workspace" />
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Learning+C%2C+C%2B%2B%2C+Data+Structures;Building+projects+one+commit+at+a+time;Open+source+beginner+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1200&center=true&vCenter=true&width=600&lines=learning+to+build+better+software;C+%7C+C%2B%2B+%7C+Data+Structures+%7C+Git;open+source+beginner;building+discipline+one+commit+at+a+time" alt="Typing SVG" />
 
 </div>
 
 ---
 
-## 𐙚 about me
-
-```yaml
-name: Saadat
-role: Computer Engineering Student
-university: Istanbul Technical University
-
-currently_learning:
-  - C and C++
-  - Data Structures
-  - Git and GitHub
-  - Web Development
-  - Open Source Workflow
-
-interests:
-  - Software Development
-  - Problem Solving
-  - Clean Code
-  - Real Projects
-  - Consistent Growth
-
-current_mindset: "Nothing that is not serious gets to interrupt what is serious."
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
+
+## 𐙚 about me
+
+Hi, I’m **Saadat**, a Computer Engineering student at **Istanbul Technical University**.
+
+I’m currently focused on building strong foundations in programming, computer science, and real-world software development. I’m learning through coursework, small projects, open-source contribution, and consistent practice.
+
+I care about writing code that is understandable, improving my problem-solving skills, and becoming more disciplined as a developer.
+
+> *“Nothing that is not serious gets to interrupt what is serious.”*
 
 </td>
-<td width="50%" valign="top">
+<td width="42%" align="center" valign="top">
 
-</td>
-</tr>
+<img src="./pixel-girl.png" width="280" alt="pixel art coding workspace" />
 
-<tr>
-<td width="50%" valign="top">
-
-</td>
-<td width="50%" valign="top">
 </td>
 </tr>
 </table>
-<div align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
-</div>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=s4daexe&show_icons=true&hide_border=true&title_color=9d7bb0&icon_color=9d7bb0" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4daexe&layout=compact&hide_border=true&title_color=9d7bb0" height="160" />
-</div>
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=gradient" />
-</div>
-```
 
+---
+
+## 𐙚 currently learning
+
+<div align="center">
+
+| Area | Focus |
+|---|---|
+| **Programming** | C, C++, JavaScript |
+| **Computer Science** | Data Structures, Algorithms, Problem Solving |
+| **Development** | Git, GitHub, Open Source Workflow |
+| **Web** | HTML, CSS, JavaScript |
+| **Projects** | Portfolio projects and practical tools |
+
+</div>
+
+---
+
+## 𐙚 tools & languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
+
+</div>
+
+---
+
+## 𐙚 focus
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### programming
+
+Strengthening my foundation in C, C++, logic, and core programming concepts.
+
+</td>
+<td width="33%" valign="top">
+
+### open source
+
+Learning how real projects work through issues, pull requests, documentation, and GitHub workflow.
+
+</td>
+<td width="33%" valign="top">
+
+### projects
+
+Building small projects to turn what I learn into something practical and visible.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 𐙚 github activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=s4daexe&show_icons=true&hide_border=true&title_color=8B6F9F&icon_color=8B6F9F&text_color=333333" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4daexe&layout=compact&hide_border=true&title_color=8B6F9F&text_color=333333" height="160" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>learning slowly · building consistently · improving commit by commit</sub>
+
+</div>
