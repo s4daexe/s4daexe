@@ -1,116 +1,69 @@
 <div align="center">
 
-# s4daexe
+<img src="./pixel-girl.png" width="360" alt="pixel art coding workspace" />
 
-### Computer Engineering • Software Development • Open Source
+# Saadat
 
-</div>
-
-<br>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=s4daexe&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/s4daexe?style=flat-square)
-
-</div>
-
-<br>
-
-<div align="center">
-
-`Software Development` &nbsp; · &nbsp; `Data Structures` &nbsp; · &nbsp; `Open Source` &nbsp; · &nbsp; `Web Development`
+### Computer Engineering student building her path in software, open source, and problem solving.
 
 </div>
 
 ---
 
-<table>
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
-### Hi, I'm Saadat
+`C` · `C++` · `Git` · `GitHub` · `Web Development` · `Data Structures`
 
-### 👋 Hi, I'm Saadat
+</div>
 
-I build my foundation in code step by step — combining university coursework, open-source practice, and project-based learning.
+---
 
-- 🎓 Computer Engineering student @ **Istanbul Technical University**
-- 💻 C / C++ / Git / GitHub / Data Structures
-- 🌐 Software development, web development, and problem solving
-- 🛠️ Building projects and improving through consistent practice
-- 🤝 Exploring open-source contribution
+## About Me
 
-<br>
+I'm a Computer Engineering student at **Istanbul Technical University**, currently building a strong foundation in programming, computer science, and real-world development.
+
+I learn through coursework, small projects, open-source contribution, and consistent practice. My focus is becoming a better developer one step at a time — with clearer thinking, cleaner code, and stronger problem-solving skills.
 
 > *“Nothing that is not serious gets to interrupt what is serious.”*
 
-</td>
-<td width="45%" valign="top">
-
-<img src="./pixel-girl.png" width="100%" alt="pixel art coding workspace" />
-
-</td>
-</tr>
-</table>
-
 ---
 
-### Tech Stack
+## Current Focus
+
+```text
+strengthening my C and C++ foundation
+learning data structures and algorithms
+practicing Git and GitHub workflows
+contributing to open-source projects
+building small projects for my portfolio
+
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
 </p>
 
----
-
-### Current Focus
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-### Programming
-
-`C` `C++` `JavaScript`
-
-Strengthening my programming foundation through university coursework, practice problems, and project-based learning.
-
 </td>
 <td width="33%" valign="top">
 
-### Computer Science
-
-`Data Structures` `Algorithms` `Problem Solving`
-
-Learning how to think more clearly, solve problems step by step, and write efficient code.
-
 </td>
 <td width="33%" valign="top">
-
-### Open Source
-
-`Git` `GitHub` `Contributions`
-
-Practicing real development workflow through issues, pull requests, documentation, and community projects.
 
 </td>
 </tr>
 </table>
-
----
-
-### GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=s4daexe&show_icons=true&hide_border=true" height="160" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4daexe&layout=compact&hide_border=true" height="160" />
 </p>
 
----
 
 <div align="center">
-
-### Building consistency, technical skill, and real-world experience.
-
 </div>
+```
+
