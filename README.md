@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="./pixel-girl.png" width="360" alt="pixel art coding workspace" />
+<img src="./pixel-girl.png" width="330" alt="pixel art coding workspace" />
 
 # Saadat
 
-### Computer Engineering student building her path in software, open source, and problem solving.
+### Computer Engineering student • developer in progress • building with discipline
 
 </div>
 
@@ -12,58 +12,92 @@
 
 <div align="center">
 
-`C` · `C++` · `Git` · `GitHub` · `Web Development` · `Data Structures`
+`currently learning` &nbsp; C · C++ · Data Structures · Git · Open Source · Web Development
 
 </div>
 
 ---
 
-## About Me
+## ✦ About
 
-I'm a Computer Engineering student at **Istanbul Technical University**, currently building a strong foundation in programming, computer science, and real-world development.
+I’m a Computer Engineering student at **Istanbul Technical University**, learning how to turn ideas into working software.
 
-I learn through coursework, small projects, open-source contribution, and consistent practice. My focus is becoming a better developer one step at a time — with clearer thinking, cleaner code, and stronger problem-solving skills.
+Right now, I’m focused on building strong fundamentals: writing better code, understanding how programs work, contributing to real projects, and becoming consistent enough to improve every day.
 
 > *“Nothing that is not serious gets to interrupt what is serious.”*
 
 ---
 
-## Current Focus
-
-```text
-strengthening my C and C++ foundation
-learning data structures and algorithms
-practicing Git and GitHub workflows
-contributing to open-source projects
-building small projects for my portfolio
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
-</p>
-
+## ✦ Focus Areas
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### code
+
+C, C++, JavaScript, HTML/CSS  
+Programming fundamentals  
+Clean and understandable solutions  
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
+
+### computer science
+
+Data structures  
+Problem solving  
+Algorithms and logic  
 
 </td>
-<td width="33%" valign="top">
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### open source
+
+Git and GitHub workflow  
+Issues, pull requests, documentation  
+Learning through real codebases  
+
+</td>
+<td width="50%" valign="top">
+
+### projects
+
+Small portfolio projects  
+Web interfaces  
+Practical tools and experiments  
 
 </td>
 </tr>
 </table>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=s4daexe&show_icons=true&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4daexe&layout=compact&hide_border=true" height="160" />
-</p>
+---
 
+## ✦ Tools & Languages
 
 <div align="center">
-</div>
-```
 
+<img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,git,github,vscode" />
+
+</div>
+
+---
+
+## ✦ GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=s4daexe&show_icons=true&hide_border=true" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s4daexe&layout=compact&hide_border=true" height="160" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>learning slowly, building consistently, improving commit by commit</sub>
+
+</div>
