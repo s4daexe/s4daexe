@@ -43,7 +43,7 @@ I build my foundation in code step by step — combining university coursework, 
 
 <br>
 
-> “Nothing that is not serious gets to interrupt what is serious.”
+> *“Nothing that is not serious gets to interrupt what is serious.”*
 
 </td>
 <td width="45%" valign="top">
