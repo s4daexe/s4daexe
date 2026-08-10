@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=145&color=0:F8D7E8,50:E8D9FF,100:D7ECFF&text=Saadat%20Namazli&fontSize=40&fontColor=2E2433&fontAlignY=42&desc=Computer%20Engineering%20Student%20%C2%B7%20Developer%20in%20Progress%20%C2%B7%20Open%20Source%20Beginner&descSize=15&descAlignY=68" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=145&color=0:F8D7E8,50:E8D9FF,100:D7ECFF&text=Saadat%20Namazli&fontSize=40&fontColor=2E2433&fontAlignY=42&desc=Computer%20Engineering%20%40%20ITU%20%C2%B7%20Software%20Development%20%C2%B7%20Systems%20%C2%B7%20Open%20Source&descSize=15&descAlignY=68" />
 
 </div>
 
@@ -17,12 +17,9 @@
 
 ## 𐙚 hello, i'm Saadat
 
-Computer Engineering student at **Istanbul Technical University**.
+Computer Engineering student at **Istanbul Technical University** interested in **software engineering**, **systems**, **algorithms**, and **open-source development**.
 
-I’m learning how to build software with patience, structure, and consistency.  
-Right now, my focus is on strengthening my programming foundation, understanding computer science concepts properly, and turning what I learn into small real projects.
-
-I’m especially interested in **software development**, **open source**, **problem solving**, and building a portfolio that shows steady growth.
+Currently building projects in **C/C++** and **JavaScript** while exploring **backend** and **systems programming**.
 
 </td>
 </tr>
@@ -50,7 +47,7 @@ I’m especially interested in **software development**, **open source**, **prob
 | **Computer Science** | Data Structures · Algorithms · Problem Solving |
 | **Development** | Git · GitHub · Open Source Workflow |
 | **Web** | HTML · CSS · JavaScript |
-| **Practice** | Small projects · Documentation · Pull requests |
+| **Exploring** | Backend · Systems Programming |
 
 </div>
 
@@ -76,21 +73,21 @@ I’m especially interested in **software development**, **open source**, **prob
 
 ### 01 · code
 
-Practicing C, C++, and programming fundamentals through coursework and exercises.
+Building a stronger foundation in C, C++, data structures, algorithms, and problem solving.
 
 </td>
 <td width="33%" valign="top">
 
 ### 02 · open source
 
-Learning real GitHub workflow through issues, documentation, pull requests, and contributions.
+Contributing through issues, documentation, pull requests, and collaborative development.
 
 </td>
 <td width="33%" valign="top">
 
 ### 03 · projects
 
-Building small projects to make my learning visible, useful, and portfolio-ready.
+Building software projects that explore algorithms, backend development, systems, and real-world problem solving.
 
 </td>
 </tr>
